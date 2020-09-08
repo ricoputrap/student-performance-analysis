@@ -4,14 +4,14 @@ An analysis and prediction of high school student performance based on demograph
 ## Table of Contents
 * [Background](#background)
 * [Methods](#methods)
-	* [Data Collection](#data%20collection)
-	* [Exploratory Data Analysis](#exploratory%20data%20analysis)
-	* [Model Building](#model%20building)
+	* [Data Collection](#data-collection)
+	* [Exploratory Data Analysis](#exploratory-data-analysis)
+	* [Model Building](#model-building)
 * [Findings](#findings)
 * [Implications](#implications)
 * [Conclusions](#conclusions)
 * [Limitations](#limitations)
-* [Future Research](#future%20research)
+* [Future Research](#future-research)
 
 ## Background
 Sebagai seorang siswa, belajar merupakan salah satu kesibukan utama yang dimilikinya. Ada berbagai hal yang mungkin memengaruhi kualitas belajarnya seperti kondisi demografi, latar belakang keluarga, kehidupan sosial, maupun hal-hal yang terkait langsung dengan kegiatan belajarnya. Alangkah baiknya jika kita mampu menganalisis hubungan antara faktor-faktor tersebut terhadap kualitas belajar siswa. Dengan begitu, kita dapat mengelola faktor-faktor tersebut supaya kita dapat memaksimalkan performa belajar siswa. 
@@ -20,7 +20,7 @@ Proyek ini akan menganalisis hubungan antara faktor-faktor tersebut terhadap per
 
 ## Methods
 ### Data Collection
-Proyek ini menggunakan [Student Performance Data Set](https://archive.ics.uci.edu/ml/datasets/student+performance) yang disediakan oleh [UCI ML Repository](https://archive.ics.uci.edu/ml/index.html). Penjelasan lebih lengkap terkait dataset yang digunakan dapat dilihat pada folder [datasets]().
+Proyek ini menggunakan [Student Performance Data Set](https://archive.ics.uci.edu/ml/datasets/student+performance) yang disediakan oleh [UCI ML Repository](https://archive.ics.uci.edu/ml/index.html). Penjelasan lebih lengkap terkait dataset yang digunakan dapat dilihat pada folder [datasets](https://github.com/ricoputrap/student-performance-analysis/tree/master/datasets).
 
 ### Exploratory Data Analysis
 ### Model Building
