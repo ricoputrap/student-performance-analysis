@@ -22,6 +22,12 @@ Proyek ini akan menganalisis hubungan antara faktor-faktor tersebut terhadap per
 ### Data Collection
 Proyek ini menggunakan [Student Performance Data Set](https://archive.ics.uci.edu/ml/datasets/student+performance) yang disediakan oleh [UCI ML Repository](https://archive.ics.uci.edu/ml/index.html). Penjelasan lebih lengkap terkait dataset yang digunakan dapat dilihat pada folder [datasets](https://github.com/ricoputrap/student-performance-analysis/tree/master/datasets).
 
+#### Important Notes from UCI ML
+The target attribute G3 has a strong correlation with attributes G1 and G2. This occurs because G3 is the final year grade (issued at the 3r period), while G1 and G2 correspond to the 1st and 2nd period grades. It is more difficult to predict G3 without G1 and G2, but such prediction is much more usefull (see paper source for more details).
+
+#### Acknowledgement
+P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7. [Web Link](http://www3.dsi.uminho.pt/pcortez/student.pdf)
+
 ### Exploratory Data Analysis
 ### Model Building
 
